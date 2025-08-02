@@ -9,6 +9,7 @@ LeetCode platform problems solution
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -45,6 +46,7 @@ LeetCode platform problems solution
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
