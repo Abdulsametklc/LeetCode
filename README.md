@@ -46,6 +46,7 @@ LeetCode platform problems solution
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
