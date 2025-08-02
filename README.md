@@ -9,6 +9,7 @@ LeetCode platform problems solution
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ LeetCode platform problems solution
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3371-harshad-number](https://github.com/Abdulsametklc/LeetCode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |
