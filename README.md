@@ -38,4 +38,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
