@@ -38,8 +38,14 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
