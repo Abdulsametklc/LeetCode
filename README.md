@@ -21,8 +21,13 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
