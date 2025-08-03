@@ -9,5 +9,3 @@ class Solution(object):
                 sayac += 1
             sonuc = length - sayac      
         return sonuc
-
-        
