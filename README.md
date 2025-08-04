@@ -19,6 +19,7 @@ LeetCode platform problems solution
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ LeetCode platform problems solution
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -72,4 +74,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
