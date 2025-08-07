@@ -33,6 +33,7 @@ LeetCode platform problems solution
 | [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abdulsametklc/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -56,6 +57,7 @@ LeetCode platform problems solution
 | ------- |
 | [0009-palindrome-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
@@ -67,6 +69,7 @@ LeetCode platform problems solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
@@ -75,6 +78,7 @@ LeetCode platform problems solution
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
