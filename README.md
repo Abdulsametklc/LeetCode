@@ -25,6 +25,7 @@ LeetCode platform problems solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abdulsametklc/LeetCode/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode platform problems solution
 | [0058-length-of-last-word](https://github.com/Abdulsametklc/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Abdulsametklc/LeetCode/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
