@@ -59,6 +59,7 @@ LeetCode platform problems solution
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ LeetCode platform problems solution
 | [0070-climbing-stairs](https://github.com/Abdulsametklc/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -81,6 +83,7 @@ LeetCode platform problems solution
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
