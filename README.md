@@ -26,11 +26,13 @@ LeetCode platform problems solution
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abdulsametklc/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -72,6 +74,7 @@ LeetCode platform problems solution
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abdulsametklc/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abdulsametklc/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
