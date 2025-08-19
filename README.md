@@ -13,6 +13,7 @@ LeetCode platform problems solution
 | [0035-search-insert-position](https://github.com/Abdulsametklc/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Abdulsametklc/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -114,6 +115,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abdulsametklc/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Abdulsametklc/LeetCode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
