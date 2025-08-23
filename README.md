@@ -16,6 +16,7 @@ LeetCode platform problems solution
 | [0118-pascals-triangle](https://github.com/Abdulsametklc/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ LeetCode platform problems solution
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -132,6 +134,7 @@ LeetCode platform problems solution
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
