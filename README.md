@@ -61,6 +61,7 @@ LeetCode platform problems solution
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +157,12 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
