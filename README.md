@@ -17,6 +17,7 @@ LeetCode platform problems solution
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
