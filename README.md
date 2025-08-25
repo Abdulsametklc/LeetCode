@@ -20,6 +20,7 @@ LeetCode platform problems solution
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -127,6 +128,7 @@ LeetCode platform problems solution
 | ------- |
 | [0035-search-insert-position](https://github.com/Abdulsametklc/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abdulsametklc/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
