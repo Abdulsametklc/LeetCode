@@ -53,6 +53,7 @@ LeetCode platform problems solution
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Abdulsametklc/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -95,6 +96,7 @@ LeetCode platform problems solution
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Abdulsametklc/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -117,6 +119,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
