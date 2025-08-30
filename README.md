@@ -111,6 +111,7 @@ LeetCode platform problems solution
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
+| [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Number Theory
 |  |
 | ------- |
