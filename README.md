@@ -111,6 +111,7 @@ LeetCode platform problems solution
 | ------- |
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -166,6 +167,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
