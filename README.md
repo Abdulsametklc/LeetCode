@@ -42,6 +42,7 @@ LeetCode platform problems solution
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -54,6 +55,7 @@ LeetCode platform problems solution
 | [0125-valid-palindrome](https://github.com/Abdulsametklc/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -151,6 +153,7 @@ LeetCode platform problems solution
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
