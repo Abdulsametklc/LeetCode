@@ -1,8 +1,3 @@
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
-
 class Solution(object):
     def getIntersectionNode(self, headA, headB):
         p, q = headA, headB
