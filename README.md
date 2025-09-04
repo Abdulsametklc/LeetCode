@@ -17,6 +17,7 @@ LeetCode platform problems solution
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
@@ -48,6 +49,7 @@ LeetCode platform problems solution
 | [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -106,6 +108,7 @@ LeetCode platform problems solution
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abdulsametklc/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
@@ -123,6 +126,7 @@ LeetCode platform problems solution
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Abdulsametklc/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
@@ -148,6 +152,7 @@ LeetCode platform problems solution
 | ------- |
 | [0035-search-insert-position](https://github.com/Abdulsametklc/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abdulsametklc/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -166,6 +171,7 @@ LeetCode platform problems solution
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
