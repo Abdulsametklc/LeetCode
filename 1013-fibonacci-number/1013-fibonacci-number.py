@@ -7,7 +7,7 @@ class Solution(object):
             x, y = y, x+y 
         return x
 
-'''Farklı öğrendiğim yöntemle
+'''Farklı yöntemle
 class Solution(object):
     def fib(self,n):
         if n==0 or n==1:
