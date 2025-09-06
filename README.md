@@ -184,6 +184,7 @@ LeetCode platform problems solution
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ LeetCode platform problems solution
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,4 +221,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
