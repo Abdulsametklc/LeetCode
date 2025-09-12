@@ -24,6 +24,7 @@ LeetCode platform problems solution
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -121,6 +122,7 @@ LeetCode platform problems solution
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
