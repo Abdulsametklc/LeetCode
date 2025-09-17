@@ -6,4 +6,4 @@ class Solution(object):
             liste.append(nums[nums[i]])
             n -=1
             i +=1
-        return liste    
+        return liste
