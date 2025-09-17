@@ -27,6 +27,7 @@ LeetCode platform problems solution
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -162,6 +163,7 @@ LeetCode platform problems solution
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
