@@ -211,6 +211,7 @@ LeetCode platform problems solution
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Abdulsametklc/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@ LeetCode platform problems solution
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Abdulsametklc/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
 | ------- |
