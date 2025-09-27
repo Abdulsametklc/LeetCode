@@ -24,6 +24,7 @@ LeetCode platform problems solution
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ LeetCode platform problems solution
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Abdulsametklc/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0507-perfect-number) |
+| [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -266,4 +268,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
