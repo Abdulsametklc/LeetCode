@@ -74,6 +74,7 @@ LeetCode platform problems solution
 | [0344-reverse-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
+| [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
