@@ -20,6 +20,7 @@ LeetCode platform problems solution
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
@@ -48,6 +49,7 @@ LeetCode platform problems solution
 | [0202-happy-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ LeetCode platform problems solution
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -193,6 +196,7 @@ LeetCode platform problems solution
 | [0069-sqrtx](https://github.com/Abdulsametklc/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdulsametklc/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Abdulsametklc/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
@@ -220,6 +224,7 @@ LeetCode platform problems solution
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Tree
