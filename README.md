@@ -62,6 +62,7 @@ LeetCode platform problems solution
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -77,6 +78,7 @@ LeetCode platform problems solution
 | [0171-excel-sheet-column-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -276,6 +278,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
