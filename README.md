@@ -64,6 +64,7 @@ LeetCode platform problems solution
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -81,6 +82,7 @@ LeetCode platform problems solution
 | [0344-reverse-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -170,6 +172,7 @@ LeetCode platform problems solution
 | [0287-find-the-duplicate-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
@@ -231,6 +234,7 @@ LeetCode platform problems solution
 | [0242-valid-anagram](https://github.com/Abdulsametklc/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Tree
