@@ -176,6 +176,7 @@ LeetCode platform problems solution
 | [0338-counting-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Abdulsametklc/LeetCode/tree/master/0461-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
