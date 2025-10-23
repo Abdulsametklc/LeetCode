@@ -92,6 +92,7 @@ LeetCode platform problems solution
 | [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +165,7 @@ LeetCode platform problems solution
 | [3371-harshad-number](https://github.com/Abdulsametklc/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Abdulsametklc/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -186,6 +188,7 @@ LeetCode platform problems solution
 | ------- |
 | [0258-add-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +202,7 @@ LeetCode platform problems solution
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -335,6 +339,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
