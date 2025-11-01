@@ -41,6 +41,7 @@ LeetCode platform problems solution
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ LeetCode platform problems solution
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
 | ------- |
