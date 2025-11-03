@@ -25,6 +25,7 @@ LeetCode platform problems solution
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@ LeetCode platform problems solution
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Abdulsametklc/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -96,6 +98,7 @@ LeetCode platform problems solution
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abdulsametklc/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abdulsametklc/LeetCode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Abdulsametklc/LeetCode/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/Abdulsametklc/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Abdulsametklc/LeetCode/tree/master/0782-jewels-and-stones) |
