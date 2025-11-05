@@ -26,6 +26,7 @@ LeetCode platform problems solution
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
@@ -167,6 +168,7 @@ LeetCode platform problems solution
 | [0441-arranging-coins](https://github.com/Abdulsametklc/LeetCode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Abdulsametklc/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -269,6 +271,7 @@ LeetCode platform problems solution
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
