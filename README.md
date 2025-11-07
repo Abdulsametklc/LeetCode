@@ -25,6 +25,7 @@ LeetCode platform problems solution
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@ LeetCode platform problems solution
 | [0344-reverse-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -276,6 +278,7 @@ LeetCode platform problems solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -393,4 +396,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
