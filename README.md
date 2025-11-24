@@ -37,6 +37,7 @@ LeetCode platform problems solution
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -224,6 +225,7 @@ LeetCode platform problems solution
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abdulsametklc/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Abdulsametklc/LeetCode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abdulsametklc/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
