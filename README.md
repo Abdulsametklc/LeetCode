@@ -38,6 +38,7 @@ LeetCode platform problems solution
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -191,6 +192,7 @@ LeetCode platform problems solution
 | [0866-rectangle-overlap](https://github.com/Abdulsametklc/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
+| [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Abdulsametklc/LeetCode/tree/master/1260-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1323-maximum-69-number) |
@@ -396,6 +398,7 @@ LeetCode platform problems solution
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Abdulsametklc/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
 ## Interactive
 |  |
 | ------- |
