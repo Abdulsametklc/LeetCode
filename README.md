@@ -206,6 +206,7 @@ LeetCode platform problems solution
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Abdulsametklc/LeetCode/tree/master/2383-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -242,6 +243,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -440,4 +442,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
