@@ -42,6 +42,7 @@ LeetCode platform problems solution
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -91,6 +92,7 @@ LeetCode platform problems solution
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Abdulsametklc/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -201,6 +203,7 @@ LeetCode platform problems solution
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Abdulsametklc/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abdulsametklc/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -365,6 +368,7 @@ LeetCode platform problems solution
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
 |  |
