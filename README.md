@@ -212,6 +212,7 @@ LeetCode platform problems solution
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Abdulsametklc/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Abdulsametklc/LeetCode/tree/master/2652-sum-multiples) |
 | [3371-harshad-number](https://github.com/Abdulsametklc/LeetCode/tree/master/3371-harshad-number) |
