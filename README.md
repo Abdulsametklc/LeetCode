@@ -42,6 +42,7 @@ LeetCode platform problems solution
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
