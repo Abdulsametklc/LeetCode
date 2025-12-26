@@ -138,6 +138,7 @@ LeetCode platform problems solution
 | [1260-day-of-the-year](https://github.com/Abdulsametklc/LeetCode/tree/master/1260-day-of-the-year) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
@@ -476,4 +477,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
