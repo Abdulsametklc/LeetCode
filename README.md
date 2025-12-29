@@ -50,6 +50,7 @@ LeetCode platform problems solution
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -139,6 +140,7 @@ LeetCode platform problems solution
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Abdulsametklc/LeetCode/tree/master/1260-day-of-the-year) |
+| [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
