@@ -52,6 +52,7 @@ LeetCode platform problems solution
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -158,6 +159,7 @@ LeetCode platform problems solution
 | [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +287,7 @@ LeetCode platform problems solution
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Abdulsametklc/LeetCode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abdulsametklc/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -407,6 +410,7 @@ LeetCode platform problems solution
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
