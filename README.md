@@ -69,6 +69,7 @@ LeetCode platform problems solution
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abdulsametklc/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ LeetCode platform problems solution
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -404,6 +406,7 @@ LeetCode platform problems solution
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
 |  |
 | ------- |
