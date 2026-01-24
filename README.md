@@ -66,6 +66,7 @@ LeetCode platform problems solution
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdulsametklc/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -155,6 +156,7 @@ LeetCode platform problems solution
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
+| [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -302,6 +304,7 @@ LeetCode platform problems solution
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
