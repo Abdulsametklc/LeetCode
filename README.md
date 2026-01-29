@@ -194,6 +194,7 @@ LeetCode platform problems solution
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abdulsametklc/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abdulsametklc/LeetCode/tree/master/0066-plus-one) |
