@@ -39,6 +39,7 @@ LeetCode platform problems solution
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
@@ -115,6 +116,7 @@ LeetCode platform problems solution
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Abdulsametklc/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -326,6 +328,7 @@ LeetCode platform problems solution
 | [0374-guess-number-higher-or-lower](https://github.com/Abdulsametklc/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Abdulsametklc/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -359,6 +362,7 @@ LeetCode platform problems solution
 | [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Abdulsametklc/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abdulsametklc/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
