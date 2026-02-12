@@ -13,7 +13,10 @@ class Solution(object):
                     para[5] -= 1
             else:
                 if para[5] == 0 or para[10] == 0:
-                    return False
+                    if para[5] >= 3:
+                        para[5] -= 3
+                    else:
+                        return False
                 else:
                     para[5] -= 1 
                     para[10] -= 1
