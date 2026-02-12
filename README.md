@@ -38,6 +38,7 @@ LeetCode platform problems solution
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Abdulsametklc/LeetCode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0860-lemonade-change](https://github.com/Abdulsametklc/LeetCode/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
@@ -510,6 +511,7 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Abdulsametklc/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1323-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abdulsametklc/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
