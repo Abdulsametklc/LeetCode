@@ -53,6 +53,7 @@ LeetCode platform problems solution
 | [1470-shuffle-the-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abdulsametklc/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Abdulsametklc/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -374,6 +375,7 @@ LeetCode platform problems solution
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abdulsametklc/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
