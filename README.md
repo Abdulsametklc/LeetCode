@@ -260,6 +260,7 @@ LeetCode platform problems solution
 | [2485-find-the-pivot-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abdulsametklc/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2556-convert-the-temperature](https://github.com/Abdulsametklc/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Abdulsametklc/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abdulsametklc/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
