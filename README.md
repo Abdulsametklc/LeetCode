@@ -125,6 +125,7 @@ LeetCode platform problems solution
 | [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Abdulsametklc/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
@@ -242,6 +243,7 @@ LeetCode platform problems solution
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Abdulsametklc/LeetCode/tree/master/1260-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1323-maximum-69-number) |
+| [1399-count-largest-group](https://github.com/Abdulsametklc/LeetCode/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
