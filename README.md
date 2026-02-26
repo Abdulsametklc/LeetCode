@@ -62,6 +62,7 @@ LeetCode platform problems solution
 | [1652-defuse-the-bomb](https://github.com/Abdulsametklc/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Abdulsametklc/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -128,6 +129,7 @@ LeetCode platform problems solution
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Abdulsametklc/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
@@ -440,6 +442,7 @@ LeetCode platform problems solution
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
