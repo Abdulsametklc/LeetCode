@@ -178,6 +178,7 @@ LeetCode platform problems solution
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Abdulsametklc/LeetCode/tree/master/1629-slowest-key) |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
@@ -271,6 +272,7 @@ LeetCode platform problems solution
 | [1688-count-of-matches-in-tournament](https://github.com/Abdulsametklc/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abdulsametklc/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Abdulsametklc/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abdulsametklc/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -542,6 +544,7 @@ LeetCode platform problems solution
 | [0860-lemonade-change](https://github.com/Abdulsametklc/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1323-maximum-69-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abdulsametklc/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdulsametklc/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
