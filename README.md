@@ -297,6 +297,7 @@ LeetCode platform problems solution
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abdulsametklc/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Abdulsametklc/LeetCode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/Abdulsametklc/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abdulsametklc/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -595,6 +596,7 @@ LeetCode platform problems solution
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/Abdulsametklc/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
