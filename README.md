@@ -155,6 +155,7 @@ LeetCode platform problems solution
 | [1399-count-largest-group](https://github.com/Abdulsametklc/LeetCode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abdulsametklc/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
@@ -198,6 +199,7 @@ LeetCode platform problems solution
 | [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Abdulsametklc/LeetCode/tree/master/1629-slowest-key) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abdulsametklc/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Abdulsametklc/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
