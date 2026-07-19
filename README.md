@@ -171,6 +171,7 @@ LeetCode platform problems solution
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +337,7 @@ LeetCode platform problems solution
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Abdulsametklc/LeetCode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Abdulsametklc/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
