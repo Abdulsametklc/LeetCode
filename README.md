@@ -217,6 +217,7 @@ LeetCode platform problems solution
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
 | ------- |
@@ -337,6 +338,7 @@ LeetCode platform problems solution
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Abdulsametklc/LeetCode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Abdulsametklc/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -389,6 +391,7 @@ LeetCode platform problems solution
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
