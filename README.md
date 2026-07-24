@@ -336,6 +336,7 @@ LeetCode platform problems solution
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Abdulsametklc/LeetCode/tree/master/3830-find-closest-person) |
 | [3870-count-commas-in-range](https://github.com/Abdulsametklc/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
