@@ -53,6 +53,7 @@ LeetCode platform problems solution
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abdulsametklc/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Abdulsametklc/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -368,6 +369,7 @@ LeetCode platform problems solution
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Abdulsametklc/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
@@ -462,6 +464,7 @@ LeetCode platform problems solution
 | [1122-relative-sort-array](https://github.com/Abdulsametklc/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abdulsametklc/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -523,6 +526,7 @@ LeetCode platform problems solution
 | [0229-majority-element-ii](https://github.com/Abdulsametklc/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Abdulsametklc/LeetCode/tree/main/1603-design-parking-system/) | Easy |
