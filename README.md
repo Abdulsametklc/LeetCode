@@ -206,6 +206,7 @@ LeetCode platform problems solution
 | [1021-remove-outermost-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1205-defanging-an-ip-address](https://github.com/Abdulsametklc/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Abdulsametklc/LeetCode/tree/master/1260-day-of-the-year) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abdulsametklc/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abdulsametklc/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1436-destination-city](https://github.com/Abdulsametklc/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
