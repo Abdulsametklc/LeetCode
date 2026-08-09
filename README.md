@@ -4,8 +4,8 @@ LeetCode platform problems solution
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -72,6 +72,7 @@ LeetCode platform problems solution
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1629-slowest-key](https://github.com/Abdulsametklc/LeetCode/tree/master/1629-slowest-key) |
 | [1652-defuse-the-bomb](https://github.com/Abdulsametklc/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abdulsametklc/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Abdulsametklc/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -112,8 +113,8 @@ LeetCode platform problems solution
 | [3861-minimum-capacity-box](https://github.com/Abdulsametklc/LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abdulsametklc/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0027-remove-element) |
@@ -137,8 +138,8 @@ LeetCode platform problems solution
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdulsametklc/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
@@ -178,8 +179,8 @@ LeetCode platform problems solution
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -213,6 +214,7 @@ LeetCode platform problems solution
 | [1528-shuffle-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Abdulsametklc/LeetCode/tree/master/1629-slowest-key) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abdulsametklc/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Abdulsametklc/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abdulsametklc/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Abdulsametklc/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -227,12 +229,12 @@ LeetCode platform problems solution
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/Abdulsametklc/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -243,8 +245,8 @@ LeetCode platform problems solution
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abdulsametklc/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abdulsametklc/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -252,8 +254,8 @@ LeetCode platform problems solution
 | [0203-remove-linked-list-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abdulsametklc/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Abdulsametklc/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -262,8 +264,8 @@ LeetCode platform problems solution
 | [0342-power-of-four](https://github.com/Abdulsametklc/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0007-reverse-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abdulsametklc/LeetCode/tree/master/0050-powx-n) |
@@ -354,8 +356,8 @@ LeetCode platform problems solution
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0190-reverse-bits) |
@@ -376,16 +378,16 @@ LeetCode platform problems solution
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Abdulsametklc/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abdulsametklc/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/Abdulsametklc/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Abdulsametklc/LeetCode/tree/master/0412-fizz-buzz) |
@@ -409,12 +411,12 @@ LeetCode platform problems solution
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0035-search-insert-position](https://github.com/Abdulsametklc/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abdulsametklc/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0268-missing-number) |
@@ -429,8 +431,8 @@ LeetCode platform problems solution
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdulsametklc/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Abdulsametklc/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abdulsametklc/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -441,14 +443,14 @@ LeetCode platform problems solution
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Abdulsametklc/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0088-merge-sorted-array](https://github.com/Abdulsametklc/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abdulsametklc/LeetCode/tree/master/0217-contains-duplicate) |
@@ -480,8 +482,8 @@ LeetCode platform problems solution
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdulsametklc/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0101-symmetric-tree) |
@@ -493,8 +495,8 @@ LeetCode platform problems solution
 | [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Abdulsametklc/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0101-symmetric-tree) |
@@ -504,8 +506,8 @@ LeetCode platform problems solution
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abdulsametklc/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0101-symmetric-tree) |
@@ -517,14 +519,14 @@ LeetCode platform problems solution
 | [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Abdulsametklc/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Abdulsametklc/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abdulsametklc/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
@@ -540,86 +542,86 @@ LeetCode platform problems solution
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/Abdulsametklc/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1603-design-parking-system](https://github.com/Abdulsametklc/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abdulsametklc/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Abdulsametklc/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0739-daily-temperatures](https://github.com/Abdulsametklc/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abdulsametklc/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0506-relative-ranks](https://github.com/Abdulsametklc/LeetCode/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Abdulsametklc/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdulsametklc/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0292-nim-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/Abdulsametklc/LeetCode/tree/master/0292-nim-game) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1122-relative-sort-array](https://github.com/Abdulsametklc/LeetCode/tree/main/1122-relative-sort-array/) | Easy |
 | [1137-height-checker](https://github.com/Abdulsametklc/LeetCode/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0046-permutations](https://github.com/Abdulsametklc/LeetCode/tree/master/0046-permutations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abdulsametklc/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Abdulsametklc/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Abdulsametklc/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
@@ -629,22 +631,22 @@ LeetCode platform problems solution
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abdulsametklc/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdulsametklc/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Abdulsametklc/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1534-count-good-triplets](https://github.com/Abdulsametklc/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Abdulsametklc/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -652,11 +654,11 @@ LeetCode platform problems solution
 | [2574-left-and-right-sum-differences](https://github.com/Abdulsametklc/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abdulsametklc/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0933-number-of-recent-calls](https://github.com/Abdulsametklc/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
