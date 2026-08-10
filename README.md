@@ -167,6 +167,7 @@ LeetCode platform problems solution
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abdulsametklc/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Abdulsametklc/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
@@ -220,6 +221,7 @@ LeetCode platform problems solution
 | [1859-sorting-the-sentence](https://github.com/Abdulsametklc/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Abdulsametklc/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2315-count-asterisks](https://github.com/Abdulsametklc/LeetCode/tree/main/2315-count-asterisks/) | Easy |
