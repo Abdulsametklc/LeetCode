@@ -680,4 +680,8 @@ LeetCode platform problems solution
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abdulsametklc/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
