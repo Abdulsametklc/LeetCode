@@ -87,6 +87,7 @@ LeetCode platform problems solution
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -655,6 +656,7 @@ LeetCode platform problems solution
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Abdulsametklc/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Abdulsametklc/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Enumeration
 |  |
