@@ -114,6 +114,7 @@ LeetCode platform problems solution
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/Abdulsametklc/LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -184,6 +185,7 @@ LeetCode platform problems solution
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -501,6 +503,7 @@ LeetCode platform problems solution
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdulsametklc/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abdulsametklc/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Abdulsametklc/LeetCode/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
