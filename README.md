@@ -237,6 +237,7 @@ LeetCode platform problems solution
 | [2315-count-asterisks](https://github.com/Abdulsametklc/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
+| [3019-number-of-changing-keys](https://github.com/Abdulsametklc/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
