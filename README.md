@@ -184,6 +184,7 @@ LeetCode platform problems solution
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abdulsametklc/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abdulsametklc/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -242,6 +243,7 @@ LeetCode platform problems solution
 | [3110-score-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abdulsametklc/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Trie
@@ -568,6 +570,7 @@ LeetCode platform problems solution
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abdulsametklc/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abdulsametklc/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Abdulsametklc/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
 | Problem Name | Difficulty |
