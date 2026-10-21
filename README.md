@@ -120,6 +120,7 @@ LeetCode platform problems solution
 | [3861-minimum-capacity-box](https://github.com/Abdulsametklc/LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [4020-elevator-requests-i](https://github.com/Abdulsametklc/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -433,6 +434,7 @@ LeetCode platform problems solution
 | [3498-reverse-degree-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
+| [4020-elevator-requests-i](https://github.com/Abdulsametklc/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 | Problem Name | Difficulty |
