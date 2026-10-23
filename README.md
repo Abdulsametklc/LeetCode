@@ -248,6 +248,7 @@ LeetCode platform problems solution
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abdulsametklc/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Abdulsametklc/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ LeetCode platform problems solution
 | [3875-construct-uniform-parity-array-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Abdulsametklc/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
