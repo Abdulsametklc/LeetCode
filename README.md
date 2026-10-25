@@ -238,6 +238,7 @@ LeetCode platform problems solution
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Abdulsametklc/LeetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdulsametklc/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Abdulsametklc/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2315-count-asterisks](https://github.com/Abdulsametklc/LeetCode/tree/main/2315-count-asterisks/) | Easy |
@@ -428,6 +429,7 @@ LeetCode platform problems solution
 | [1688-count-of-matches-in-tournament](https://github.com/Abdulsametklc/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Abdulsametklc/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
