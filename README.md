@@ -43,6 +43,7 @@ LeetCode platform problems solution
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Abdulsametklc/LeetCode/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Abdulsametklc/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
@@ -326,6 +327,7 @@ LeetCode platform problems solution
 | [0830-largest-triangle-area](https://github.com/Abdulsametklc/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Abdulsametklc/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Abdulsametklc/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Abdulsametklc/LeetCode/tree/master/0908-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1013-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Abdulsametklc/LeetCode/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/Abdulsametklc/LeetCode/tree/master/1103-distribute-candies-to-people) |
