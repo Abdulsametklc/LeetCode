@@ -341,6 +341,7 @@ LeetCode platform problems solution
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abdulsametklc/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -407,6 +408,7 @@ LeetCode platform problems solution
 | [1054-complement-of-base-10-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abdulsametklc/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
