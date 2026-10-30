@@ -366,6 +366,7 @@ LeetCode platform problems solution
 | [2652-sum-multiples](https://github.com/Abdulsametklc/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abdulsametklc/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/Abdulsametklc/LeetCode/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abdulsametklc/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -639,6 +640,7 @@ LeetCode platform problems solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/Abdulsametklc/LeetCode/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -692,6 +694,7 @@ LeetCode platform problems solution
 | [1925-count-square-sum-triples](https://github.com/Abdulsametklc/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Abdulsametklc/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2928-distribute-candies-among-children-i](https://github.com/Abdulsametklc/LeetCode/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
