@@ -251,6 +251,7 @@ LeetCode platform problems solution
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
 | [3019-number-of-changing-keys](https://github.com/Abdulsametklc/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Abdulsametklc/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Abdulsametklc/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -273,6 +274,7 @@ LeetCode platform problems solution
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdulsametklc/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abdulsametklc/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3174-clear-digits](https://github.com/Abdulsametklc/LeetCode/tree/main/3174-clear-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +447,7 @@ LeetCode platform problems solution
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Abdulsametklc/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3174-clear-digits](https://github.com/Abdulsametklc/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
