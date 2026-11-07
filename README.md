@@ -243,6 +243,7 @@ LeetCode platform problems solution
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abdulsametklc/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Abdulsametklc/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abdulsametklc/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Abdulsametklc/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Abdulsametklc/LeetCode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
