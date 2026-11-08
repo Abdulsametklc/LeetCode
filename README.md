@@ -89,6 +89,7 @@ LeetCode platform problems solution
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
+| [2363-merge-similar-items](https://github.com/Abdulsametklc/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -189,6 +190,7 @@ LeetCode platform problems solution
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/Abdulsametklc/LeetCode/tree/master/2347-best-poker-hand) |
+| [2363-merge-similar-items](https://github.com/Abdulsametklc/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -531,6 +533,7 @@ LeetCode platform problems solution
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Abdulsametklc/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abdulsametklc/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2363-merge-similar-items](https://github.com/Abdulsametklc/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -736,4 +739,8 @@ LeetCode platform problems solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Abdulsametklc/LeetCode/tree/master/0175-combine-two-tables) |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/Abdulsametklc/LeetCode/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
