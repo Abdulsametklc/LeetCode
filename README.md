@@ -117,6 +117,7 @@ LeetCode platform problems solution
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Abdulsametklc/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abdulsametklc/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abdulsametklc/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Abdulsametklc/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abdulsametklc/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -696,6 +697,7 @@ LeetCode platform problems solution
 | [0219-contains-duplicate-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Abdulsametklc/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abdulsametklc/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abdulsametklc/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -736,6 +738,7 @@ LeetCode platform problems solution
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Abdulsametklc/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Abdulsametklc/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abdulsametklc/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abdulsametklc/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Data Stream
