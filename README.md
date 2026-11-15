@@ -28,6 +28,7 @@ LeetCode platform problems solution
 | [0349-intersection-of-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdulsametklc/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Abdulsametklc/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Abdulsametklc/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abdulsametklc/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
@@ -179,6 +180,7 @@ LeetCode platform problems solution
 | [0383-ransom-note](https://github.com/Abdulsametklc/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abdulsametklc/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abdulsametklc/LeetCode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0500-keyboard-row](https://github.com/Abdulsametklc/LeetCode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Abdulsametklc/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Abdulsametklc/LeetCode/tree/master/0888-fair-candy-swap) |
