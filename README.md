@@ -262,6 +262,7 @@ LeetCode platform problems solution
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abdulsametklc/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Abdulsametklc/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Abdulsametklc/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Abdulsametklc/LeetCode/tree/master/2502-sort-the-people) |
@@ -461,6 +462,7 @@ LeetCode platform problems solution
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abdulsametklc/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abdulsametklc/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
