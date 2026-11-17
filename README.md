@@ -63,6 +63,7 @@ LeetCode platform problems solution
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abdulsametklc/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Abdulsametklc/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Abdulsametklc/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1436-destination-city](https://github.com/Abdulsametklc/LeetCode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -542,6 +543,7 @@ LeetCode platform problems solution
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abdulsametklc/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Abdulsametklc/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abdulsametklc/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Abdulsametklc/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -711,6 +713,7 @@ LeetCode platform problems solution
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abdulsametklc/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1323-maximum-69-number](https://github.com/Abdulsametklc/LeetCode/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Abdulsametklc/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Abdulsametklc/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abdulsametklc/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
