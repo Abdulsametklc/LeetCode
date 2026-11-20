@@ -93,6 +93,7 @@ LeetCode platform problems solution
 | [2048-build-array-from-permutation](https://github.com/Abdulsametklc/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abdulsametklc/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abdulsametklc/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdulsametklc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abdulsametklc/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abdulsametklc/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -163,6 +164,7 @@ LeetCode platform problems solution
 | [0942-di-string-match](https://github.com/Abdulsametklc/LeetCode/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abdulsametklc/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/Abdulsametklc/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdulsametklc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abdulsametklc/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abdulsametklc/LeetCode/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Abdulsametklc/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -265,6 +267,7 @@ LeetCode platform problems solution
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abdulsametklc/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abdulsametklc/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Abdulsametklc/LeetCode/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abdulsametklc/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abdulsametklc/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abdulsametklc/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Abdulsametklc/LeetCode/tree/main/2315-count-asterisks/) | Easy |
