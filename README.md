@@ -138,6 +138,7 @@ LeetCode platform problems solution
 | [3861-minimum-capacity-box](https://github.com/Abdulsametklc/LeetCode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abdulsametklc/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abdulsametklc/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/Abdulsametklc/LeetCode/tree/main/3996-even-number-of-knight-moves/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Abdulsametklc/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Abdulsametklc/LeetCode/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/Abdulsametklc/LeetCode/tree/master/4058-compute-alternating-sum) |
@@ -424,6 +425,7 @@ LeetCode platform problems solution
 | [3894-traffic-signal-color](https://github.com/Abdulsametklc/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Abdulsametklc/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Abdulsametklc/LeetCode/tree/main/3986-number-of-elapsed-seconds-between-two-times/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/Abdulsametklc/LeetCode/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
